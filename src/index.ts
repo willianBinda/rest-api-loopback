@@ -12,10 +12,10 @@ export async function main(options: ApplicationConfig = {}) {
       port: 27017,
     },
     {
-      host: '209.14.140.120',
-      port: 10227,
-      username: 'fluxodev',
-      password: 'fluxo2022',
+      host: '',
+      port: ,
+      username: '',
+      password: '',
     },
     {
       dstAddr: '127.0.0.1',
