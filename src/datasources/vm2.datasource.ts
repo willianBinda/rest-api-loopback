@@ -2,15 +2,15 @@ import {inject, lifeCycleObserver, LifeCycleObserver} from '@loopback/core';
 import {juggler} from '@loopback/repository';
 
 const config = {
-  name: 'vm2',
-  connector: 'mongodb',
+  name: '',
+  connector: '',
   url: '',
-  host: 'localhost',
-  port: 27017,
-  user: 'root',
-  password: 'lts2023$%',
-  database: 'Fluxodb_0',
-  authSource: 'Fluxodb_0',
+  host: '',
+  port: ,
+  user: '',
+  password: '',
+  database: '',
+  authSource: '',
   useNewUrlParser: true,
 };
 
